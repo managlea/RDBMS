@@ -9,5 +9,5 @@
     "autoload": {
         "psr-4": {"Managlea\\Component\\RDBMS\\": ""}
     },
-    "target-dir": "Managlea/Component/RDBMS",
+    "target-dir": "Managlea/Component/RDBMS"
 }
