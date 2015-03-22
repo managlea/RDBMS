@@ -6,7 +6,7 @@
  * Time: 15:22
  */
 
-namespace Managlea\Component;
+namespace Managlea\RDBMS;
 
 
 interface RDBMSInterface

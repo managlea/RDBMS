@@ -1,13 +1,12 @@
 {
-    "name": "managlea/rdbms",
-    "type": "library",
-    "authors": [
-        {
-            "name": "Kauri Kont-Kontson"
-        }
-    ],
-    "autoload": {
-        "psr-0": {"Managlea\\Component\\RDBMS\\": ""}
-    },
-    "target-dir": "Managlea/Component/RDBMS"
+  "name": "managlea/rdbms",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Kauri Kont-Kontson"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Managlea\\RDBMS\\": "src/"}
+  }
 }

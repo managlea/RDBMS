@@ -1,6 +1,6 @@
 <?php
 
-namespace Managlea\Component;
+namespace Managlea\RDBMS;
 
 
 class RDBMS implements RDBMSInterface
