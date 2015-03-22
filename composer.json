@@ -8,5 +8,8 @@
   ],
   "autoload": {
     "psr-4": {"Managlea\\RDBMS\\": "src/"}
+  },
+  "require-dev": {
+    "codeclimate/php-test-reporter": "dev-master"
   }
 }
