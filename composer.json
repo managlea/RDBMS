@@ -1,6 +1,8 @@
 {
+  "description": "Additional abstraction for database",
   "name": "managlea/rdbms",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "Kauri Kont-Kontson"
